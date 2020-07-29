@@ -11,7 +11,7 @@ Malaria parasites can be identified by examining a sample of an infected patient
 ![](malaria.jpg)
 
 # Dataset
-Complete dataset: https://drive.google.com/file/d/1lxVOmIyjpL0JITOA-06YSI_NMFIH3auz/view
+Complete dataset: https://drive.google.com/file/d/1lxVOmIyjpL0JITOA-06YSI_NMFIH3auz/view.
 This dataset contins the images to be used in processing, in coloured (RBG) format. As our only aim is to count the areas of the contours formed in the cell, we'll convert the images to black and white, for easy processing.
 
 Processed dataset: https://drive.google.com/file/d/1azIYjzLFCY7qp7-NjgSBvakbGgPvQlRf/view
