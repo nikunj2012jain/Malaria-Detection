@@ -9,3 +9,8 @@ Malaria parasites can be identified by examining a sample of an infected patient
 
 # Plasmodium vivax parasites infesting red blood cells
 ![](malaria.jpg)
+
+# Dataset
+Complete dataset: https://drive.google.com/file/d/1lxVOmIyjpL0JITOA-06YSI_NMFIH3auz/view
+
+Processed dataset: https://drive.google.com/file/d/1azIYjzLFCY7qp7-NjgSBvakbGgPvQlRf/view
